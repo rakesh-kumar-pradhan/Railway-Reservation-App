@@ -1,0 +1,183 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "register": [
+    {
+      "data": {
+        "firstName": "Rakesh",
+        "lastName": "Pradhan",
+        "email": "rakeshkp683@gmail.com",
+        "password": "Rakesh@123",
+        "confirmPassword": "Rakesh@123",
+        "errors": {},
+        "phoneNumber": "07762915576",
+        "isLoading": false
+      },
+      "id": 1
+    },
+    {
+      "data": {
+        "firstName": "Rakesh",
+        "lastName": "Pradhan",
+        "email": "rakeshkp683@gmail.com",
+        "password": "Rakesh@123",
+        "confirmPassword": "Rakesh@123",
+        "errors": {},
+        "phoneNumber": "07762915576",
+        "isLoading": false
+      },
+      "id": 2
+    },
+    {
+      "data": {
+        "firstName": "Rakesh",
+        "lastName": "Pradhan",
+        "email": "rakeshkp683@gmail.com",
+        "password": "Rakesh@123",
+        "confirmPassword": "Rakesh@123",
+        "errors": {},
+        "phoneNumber": "9031197682",
+        "isLoading": false
+      },
+      "id": 3
+    },
+    {
+      "data": {
+        "firstName": "Rakesh",
+        "lastName": "Pradhan",
+        "email": "rakeshkp683@gmail.com",
+        "password": "Rakesh@123",
+        "confirmPassword": "Rakesh@123",
+        "errors": {},
+        "phoneNumber": "07762915576",
+        "isLoading": false
+      },
+      "id": 4
+    },
+    {
+      "firstName": "Rakesh",
+      "lastName": "Pradhan",
+      "email": "rakeshkp683@gmail.com",
+      "password": "Rakesh@123",
+      "confirmPassword": "Rakesh@123",
+      "errors": {},
+      "phoneNumber": "07762915576",
+      "isLoading": false,
+      "id": 5
+    },
+    {
+      "firstName": "Rakesh",
+      "lastName": "Pradhan",
+      "email": "rakeshkp683@gmail.com",
+      "password": "Rakesh@123",
+      "confirmPassword": "Rakesh@123",
+      "errors": {
+        "firstName": "This field is required",
+        "lastName": "This field is required",
+        "confirmPassword": "This field is required"
+      },
+      "phoneNumber": 0,
+      "isLoading": false,
+      "id": 6
+    },
+    {
+      "firstName": "Rakesh",
+      "lastName": "Pradhan",
+      "email": "rakeshkp683@gmail.com",
+      "password": "Rakesh@123",
+      "confirmPassword": "Rakesh@123",
+      "errors": {},
+      "phoneNumber": "07762915576",
+      "isLoading": false,
+      "id": 7
+    },
+    {
+      "firstName": "Rakesh",
+      "lastName": "Pradhan",
+      "email": "rakeshkp683@gmail.com",
+      "password": "Rakesh@123",
+      "confirmPassword": "Rakesh@123",
+      "errors": {},
+      "phoneNumber": "07762915576",
+      "isLoading": false,
+      "id": 8
+    },
+    {
+      "firstName": "Rakesh",
+      "lastName": "Pradhan",
+      "email": "rakeshkp683@gmail.com",
+      "password": "Rakesh@123",
+      "confirmPassword": "Rakesh@123",
+      "errors": {},
+      "phoneNumber": "9031197682",
+      "isLoading": false,
+      "id": 9
+    },
+    {
+      "firstName": "Rakesh",
+      "lastName": "Pradhan",
+      "email": "rakeshkp683@gmail.com",
+      "password": "Rakesh@123",
+      "confirmPassword": "Rakesh@123",
+      "errors": {},
+      "phoneNumber": "9031197682",
+      "isLoading": false,
+      "id": 10
+    },
+    {
+      "firstName": "Rakesh",
+      "lastName": "Pradhan",
+      "email": "rakeshkp683@gmail.com",
+      "password": "Rakesh@123",
+      "confirmPassword": "Rakesh@123",
+      "errors": {},
+      "phoneNumber": "9031197682",
+      "isLoading": false,
+      "id": 11
+    },
+    {
+      "firstName": "Rakesh",
+      "lastName": "Pradhan",
+      "email": "rakeshkp683@gmail.com",
+      "password": "Rakesh@123",
+      "confirmPassword": "Rakesh@123",
+      "errors": {},
+      "phoneNumber": "07762915576",
+      "isLoading": false,
+      "id": 12
+    },
+    {
+      "firstName": "Rakesh",
+      "lastName": "Pradhan",
+      "email": "rakeshkp683@gmail.com",
+      "password": "Rakesh@123",
+      "confirmPassword": "Rakesh@123",
+      "errors": {
+        "confirmPassword": "This field is required"
+      },
+      "phoneNumber": "9031197682",
+      "isLoading": false,
+      "id": 13
+    },
+    {
+      "firstName": "Rakesh",
+      "lastName": "Pradhan",
+      "email": "rakeshkp683@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "errors": {},
+      "phoneNumber": "9031197682",
+      "isLoading": false,
+      "id": 14
+    }
+  ],
+  "auth": {
+    "email": "rakeshkp683@gmail.com",
+    "password": "1234"
+  }
+}
