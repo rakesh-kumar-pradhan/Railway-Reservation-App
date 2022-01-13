@@ -1,13 +1,11 @@
 
-## React Redux Login & Registration Example
+## Railway-Reservation-App
 
 This is an example application to demonstrate how we can manage login/registration flow in our React app with Redux.
 
-For this example, I used [Semantic UI React](https://github.com/Semantic-Org/Semantic-UI-React) framework to create the user interface.
-
 ## Usage
 ```
-git clone https://github.com/feyyazakkus/react-redux-login-registration-example
+git clone https://github.com/rakesh-kumar-pradhan/Railway-Reservation-App.git
 npm intall
 npm start
 ```
